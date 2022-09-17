@@ -1,0 +1,13 @@
+APLIKASI_HOSPITAL_ADMISSION_PROSES_PENERIMAAN_PASIEN
+Var : String
+READ Pasien baru
+IF yes THEN input var "Nama","Alamat"
+Else Input No. RM
+READ "berkas RM"
+READ "Menu Rawat"
+While "menu rawat"
+IF rawat jalan, THEN menu dokter
+IF rawat inap, THEN menu dokter
+While resep
+Whileend
+END

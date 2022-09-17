@@ -1,0 +1,9 @@
+Mulai
+Login ke pasien baru, dan input data isi nama, alamat
+jika tidak atau bukan pasien baru, maka input no RM
+jika sudah input, maka akan keluar berkas RM
+Lanjutkan ke menu pilih rawat
+jika rawat jalan, maka lanjut menu Dokter
+jika Tidak/ rawat inap, maka pilih menu dokter 
+jika sudah terpilih dokter, input resep akan terbuka 
+selesai.
